@@ -24,4 +24,11 @@ d1 = 6;
 double quotient2 = i1 / d1;
 Console.WriteLine(quotient2);
 
+int a = 6;
+int b = 9;
+int c = 4;
+double d = 7;
+double HW = (a*b)/(c+d);
+Console.WriteLine(HW);
+
 
